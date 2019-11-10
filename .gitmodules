@@ -1,3 +1,8 @@
 [submodule "themes/aerial"]
 	path = themes/aerial
 	url = git@github.com:zemanlx/aerial.git
+	branch = zeman-dev
+[submodule "public"]
+	path = public
+	url = git@github.com:zemanlx/zemanlx.github.io.git
+	branch = master
