@@ -1,0 +1,38 @@
+languageCode = "en-uk"
+title = "Zeman"
+baseurl = "https://zeman.dev/"
+theme = "aerial"
+
+[params]
+  name = "Zeman"
+  description = "DevOps & Cloud Consultancy"
+  about = "Methodical &nbsp;&bull;&nbsp; Open-minded&nbsp;&bull;&nbsp; Simple"
+  copyright = "Zeman Limited, C/O Intouch Accounting Everdene House, Deansleigh Road, Bournemouth, BH7 7DU, United Kingdom"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = "n"
+  # favicon = "favicon.ico"
+
+# [[params.social]]
+#   medium = "Twitter"
+#   icon = "twitter"
+#   link = "#"
+
+# [[params.social]]
+#   medium = "Facebook"
+#   icon = "facebook"
+#   link = "#"
+
+# [[params.social]]
+#   medium = "Dribbble"
+#   icon = "dribbble"
+#   link = "#"
+
+# [[params.social]]
+#   medium = "Github"
+#   icon = "github"
+#   link = "#"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:hello@zeman.dev"
