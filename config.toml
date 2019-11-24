@@ -7,7 +7,7 @@ theme = "aerial"
   name = "Zeman"
   description = "DevOps & Cloud Consultancy"
   about = "Methodical &nbsp;&bull;&nbsp; Open-minded&nbsp;&bull;&nbsp; Simple"
-  copyright = "Zeman Limited, C/O Intouch Accounting Everdene House, Deansleigh Road, Bournemouth, BH7 7DU, United Kingdom"
+  copyright = "Zeman Limited 2019. All rights reserved."
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = "n"
   # favicon = "favicon.ico"
@@ -36,3 +36,76 @@ theme = "aerial"
   medium = "Email"
   icon = "envelope-o"
   link = "mailto:hello@zeman.dev"
+
+
+[[params.terms]]
+  paragraphs = [
+    "By accessing https://zeman.dev (the 'Website') you are agreeing to be bound by these Terms and Conditions ('Terms'), all applicable laws and regulations, including compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this Website are protected by applicable copyright and trademark law.",
+    "The Website is run and maintained by Zeman Limited ('We/Us'), DevOps and Cloud Consultancy, registered in England and Wales number 12301356 and whose registered office is at C/O Intouch Accounting Everdene House, Deansleigh Road, Bournemouth, United Kingdom, BH7 7DU and whose VAT registration number is 335 8840 77.",
+    "We can alter the Terms at any time and advise you to read them regularly. Whether you check the Terms or not, you are automatically bound by any such changes.",
+  ]
+
+[[params.terms]]
+  title = "Rights of use and access"
+  paragraphs = [
+    "You are given only a temporary right to use the Website, only in accordance with these Terms and for your own personal use. We can withdraw this right without notice. There is no liability if the Website is unavailable at any time or for any period.",
+    "If you are provided with an identification code or password, you must treat it as confidential and not disclose it to anybody else.",
+  ]
+
+[[params.terms]]
+  title = "Content"
+  paragraphs = [
+    "You are solely responsible for any content that you upload to the Website. You grant us the right to disclose your identity to anybody who claims that material uploaded is infringing their intellectual property rights or their right to privacy.",
+    "We retain a right to remove any material uploaded or posted if the material:",
+    ]
+  list = [
+    "Is not compliant with the law in the UK or any country from which they are posted or helps to commit or assist an unlawful act",
+    "Contains any kind of offensive, hateful or inflammatory material, including defamatory information that unlawfully damages someone's reputation, as well as is likely to offend anyone or promotes violence or sexually explicit material",
+    "Promotes any kind of discrimination",
+    "Infringes the intellectual property rights of any other person, is used to misrepresent someone's identity or impersonate another person"
+  ]
+
+[[params.terms]]
+  title = "Reliance on information posted"
+  paragraphs = ["Any comments or other materials posted on the site can't be relied on as advice, and We are not legally liable for any such reliance."]
+
+[[params.terms]]
+  title = "Intellectual property"
+  paragraphs = ["We own all rights in the Website, including but not limited to all trademarks, logos, text, images or software used to operate the Website. You are not allowed to license any parts of the site to anyone else or modify, copy, sell, download or use any parts of the Website for your own commercial purposes without our permission."]
+
+[[params.terms]]
+  title = "Data protection"
+  paragraphs = ["We are collecting and processing your information in accordance with Privacy Policy for the Website. By using the Website you consent to this collection and processing and confirm that all information provided is accurate."]
+
+[[params.terms]]
+  title = "Links"
+  paragraphs = ["We are not responsible for links that we provide to other sites. Any links to third-party sites are provided for information purposes only and we do not endorse them. We are not responsible for these other sites and we are not liable for any loss suffered as a result of visiting them.",
+  "We retain the right to prevent or veto links to our Website.",
+  ]
+
+[[params.terms]]
+  title = "Malware, hacking and other offences"
+  paragraphs = ["The Website cannot be deliberately misused by introducing malware. Unauthorised access isn't allowed to the site, server or to any database connected to the Website. Any such actions which may be classified as a criminal offence under the Computer Misuse Act, 1990, will be reported to the relevant authorities, together with your identity."]
+
+[[params.terms]]
+  title = "Liability"
+  paragraphs = [
+    "We give no responsibility about the accuracy or validity of the information provided on the Website, as they are provided on 'as is' basis. We give no promise, guarantee or warranty in respect of any use of the site and its content, including for any mistakes or omissions we have made. We accept no legal responsibility for any loss or damage you suffer, including money, profits, data or reputation.",
+    "If you rely on the content of the Website, you do so at the your own risk.",
+    "We do not exclude our liability for death or personal injury arising from negligence, for fraudulent misrepresentation, or for any other liability where exclusion or limitation is not allowed by law.",
+  ]
+
+[[params.terms]]
+  title = "Jurisdiction and governing law"
+  paragraphs = ["All terms of the Website are governed by English law. Any disputes arising are governed by English law and can only be brought in English Courts."]
+
+[[params.terms]]
+  title = "Contact Us"
+  paragraphs = ["Please email us at hello@zeman.dev to contact us about any issues."]
+
+[[params.privacy]]
+  paragraphs = [
+    "This website (https://zeman.dev) does not collect or store your personal data.",
+    "All of your emails to hello@zeman.dev are stored in Google's G Suite for Business.",
+    "If you wish for us to copy, modify or remove your information at any time, you can do so by sending us an email to hello@zeman.dev.",
+  ]
