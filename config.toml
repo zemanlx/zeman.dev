@@ -7,7 +7,7 @@ theme = "aerial"
   name = "Zeman"
   description = "DevOps & Cloud Consultancy"
   about = "Methodical &nbsp;&bull;&nbsp; Open-minded&nbsp;&bull;&nbsp; Simple"
-  copyright = "Zeman Limited 2019. All rights reserved."
+  copyright = "Zeman Limited 2019-2020. All rights reserved."
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = "n"
   # favicon = "favicon.ico"
